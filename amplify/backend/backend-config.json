@@ -65,6 +65,13 @@
       "service": "Lambda"
     }
   },
+  "hosting": {
+    "amplifyhosting": {
+      "lastPushTimeStamp": "2023-06-16T08:52:17.742Z",
+      "service": "amplifyhosting",
+      "type": "cicd"
+    }
+  },
   "parameters": {
     "AMPLIFY_function_inspoquotegenerator13fab29a_deploymentBucketName": {
       "usedBy": [

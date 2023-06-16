@@ -18,7 +18,7 @@
       "function": {
         "inspoquotegenerator13fab29a": {
           "deploymentBucketName": "amplify-inspoquotegenerator-dev-104528-deployment",
-          "s3Key": "amplify-builds/inspoquotegenerator13fab29a-3264346e6270636c732b-build.zip"
+          "s3Key": "amplify-builds/inspoquotegenerator13fab29a-4f354332494331496750-build.zip"
         }
       },
       "api": {
